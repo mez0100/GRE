@@ -43,5 +43,5 @@
 </ul>
 <ul>- Revisit Magoosh practice problems. 
 </ul>
-<ul>- ETS PowerPrep Test 2: 163 quant, 169 verbal. I did this last practice test two days before my test date. I was a little bummed at my lower quant score, but this was largely due to spending too much time on a hard quant problem instead of marking it and going back.
+<ul>- ETS PowerPrep Test 2: 
 </ul>
